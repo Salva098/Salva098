@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Salva098
+- 👀 I’m interested in bots in python
+- 🌱 I’m currently learning PYTHON
